@@ -1,5 +1,5 @@
 # TAMU-CSCE-411
-This is repository will show you the project of CSCE 411.
+This is the repository that will show you the project of CSCE 411 by Yingtao Jiang.
 The file CSCE411Project.pdf is the project introduction file, which contain 35 programming question including dynamic programming, greedy algorithms, graph, NP-Complete, and approximation.
 The file project1.0.pdf is the solution sets.
 
